@@ -5,7 +5,7 @@
   <p align="center">
     For You
     <br />
-    <a href="https://BUSHIDO.github.io/bushido.github.io/">View Demo</a>
+    <a href="https://TerrorEast1995/bushido.github.io/">View Demo</a>
     ·
     <a href="https://github.com/TerrorEast1995/bushido.github.io/issues">Report Bug</a>
     ·
